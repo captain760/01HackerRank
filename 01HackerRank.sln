@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11 Two Robots", "11 Two Rob
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Student grades", "12. Student grades\13. Student grades.csproj", "{37B82B28-5E22-483B-8D08-670E9152762C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Number Line Jumps", "12. Number Line Jumps\12. Number Line Jumps.csproj", "{22B952E1-C344-4297-815E-242E73606A1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Number Line Jumps", "12. Number Line Jumps\12. Number Line Jumps.csproj", "{22B952E1-C344-4297-815E-242E73606A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Apple and Orange", "14. Apple and Orange\14. Apple and Orange.csproj", "{FB042CDE-90A1-4410-86C4-1194D1C09B6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{22B952E1-C344-4297-815E-242E73606A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22B952E1-C344-4297-815E-242E73606A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22B952E1-C344-4297-815E-242E73606A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB042CDE-90A1-4410-86C4-1194D1C09B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB042CDE-90A1-4410-86C4-1194D1C09B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB042CDE-90A1-4410-86C4-1194D1C09B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB042CDE-90A1-4410-86C4-1194D1C09B6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
